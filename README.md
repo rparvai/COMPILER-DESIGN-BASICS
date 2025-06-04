@@ -32,4 +32,5 @@ In essence, this program demonstrates the basics of how source code is scanned a
 
 Overall, this lexical analyzer serves as an excellent learning tool for beginners in compiler design and helps them visualize how programming languages are interpreted by machines).
 
+#OUTPUT
 ![Image](https://github.com/user-attachments/assets/0795bc3a-7c9e-48ea-b8dd-7e028a86bb2c)
