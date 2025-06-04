@@ -31,3 +31,5 @@ This process continues until the end of the file. At each step, the program prin
 In essence, this program demonstrates the basics of how source code is scanned and broken into parts during compilation. Though simplified, it reflects how real compilers function internally. It can be further extended to detect numbers, delimiters (like semicolons and brackets), and comments, or even to handle more complex token patterns using regular expressions or finite automata.
 
 Overall, this lexical analyzer serves as an excellent learning tool for beginners in compiler design and helps them visualize how programming languages are interpreted by machines).
+
+![Image](https://github.com/user-attachments/assets/0795bc3a-7c9e-48ea-b8dd-7e028a86bb2c)
